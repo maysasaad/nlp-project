@@ -4,15 +4,15 @@
 
 ## Overview
 
-Through this project, We will build an NLP model to analyze Twitter sentiment about Apple and Google products,the model can rate the sentiment of a Tweet based on its content. create a predictive classification model that makes it possible to understand the business problem,solve it and report the findings of the final model,including predictions and performance metrics.
+Through this project, We will build an NLP model to analyze Twitter sentiment about Apple products,the model can rate the sentiment of a Tweet based on its content. create a predictive classification model that makes it possible to understand the business problem,solve it and report the findings of the final model,including predictions and performance metrics.
 
 ## Business Understanding
 
-Millions of people share their opinions about various topics on Twitter daily, So Baghdad cell company makes Twitter one of the resources for their businesses and conducts a sentiment analysis of tweets from the SXSW Conference. The goal of this project is to develop a model that will classify tweets based on their sentiment either if it was negative, positive, or neutral on Apple products, the company is interested in selling Apple products and trying to make some advertisement for the products based on the positive tweets.
+Millions of people share their opinions about various topics on Twitter daily, So Baghdad cell company makes Twitter one of the resources for their businesses and conducts a sentiment analysis of tweets from the SXSW Conference. The goal of this project is to develop a model that will classify tweets based on their sentiment either if it is negative, positive, or neutral on Apple products, the company is interested in selling Apple products and trying to make some advertisement for the products based on the positive tweets.
 
 ## Data Understanding
 
-This project uses Brands and Product Emotions dataset from CrowdFlower via data. world Which consists of information about customer raters rated the sentiment in 9,093 Tweets. The tweets reflect which emotion they convey and what product/service/company this emotion is directed at based on the content.
+This project uses Brands and Product Emotions dataset from CrowdFlower  Which consists of information about customer raters rated the sentiment in 9,093 Tweets. The tweets reflect which emotion they convey and what product/service/company this emotion is directed at based on the content.
 
 ## Modeling
 Natural Language Processing (NLP) is a process of manipulating or understanding the text or speech by any software or machine. An analogy is that humans interact and understand each other’s views and respond with the appropriate answer. In NLP, this interaction, understanding, and response are made by a computer instead of a human.
