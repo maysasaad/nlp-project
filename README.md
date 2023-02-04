@@ -1,6 +1,6 @@
 # Brands and Product Emotions
 
-![image.jpg](Images/image.jpg)
+![image.jpg](images/image.jpg)
 
 ## Overview
 
